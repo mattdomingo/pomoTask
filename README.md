@@ -1,4 +1,4 @@
-# Pomotask 🍅
+# Pomotask
 
 A modern, minimalist Pomodoro timer application built with React, TypeScript, and Vite. Track your productivity with the classic 25-minute focus sessions and 5-minute breaks, while managing your daily tasks.
 
